@@ -83,7 +83,7 @@ src/
 
 ## License
 
-GPL-2.0 — consistent with JPEGView
+GPL-2.0
 
 ## References
 
